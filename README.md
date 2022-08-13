@@ -19,6 +19,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdtpwhs)](https://solved.ac/wkdtpwhs/)
 
+![snake gif](https://github.com/SeJonJ/SeJonJ/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **SeJonJ/SeJonJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
